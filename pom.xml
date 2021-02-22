@@ -14,8 +14,8 @@
 	<name>SpringBootTest</name>
 	<description>Simple project to test git</description>
 	<properties>
-		<java.version>11</java.version>
-	</properties>
+   <java.version>1.8</java.version>
+  </properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -28,6 +28,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
 
 	<build>
 		<plugins>
